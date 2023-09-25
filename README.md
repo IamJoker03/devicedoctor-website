@@ -1,1 +1,1 @@
-Official source code for Device Doctor Website.
+Official source code for Device Doctor Website
